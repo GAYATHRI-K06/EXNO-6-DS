@@ -47,4 +47,4 @@ STEP 5:Include Necessary parameters in each functions.
 
 
 # Result:
- Include your result here
+Thus, all the data visualization techniques of seaborn has been implemented.
